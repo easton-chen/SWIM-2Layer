@@ -8,13 +8,11 @@ case = 0
 if(case == 0):
     df1 = pd.read_csv('./2layer/RQ2/wc-1l.csv')
     df2 = pd.read_csv('./2layer/RQ2/wc-2l.csv')
-    startt = 60
-    endt = 70
+    
 if(case == 1):
     df1 = pd.read_csv('./2layer/RQ2/cl-1l.csv')
     df2 = pd.read_csv('./2layer/RQ2/cl-2l.csv')
-    startt = 30
-    endt = 40
+    
 
 df1 = pd.DataFrame(df1, columns=['name','attrname','attrvalue','value','vectime','vecvalue'])
 df2 = pd.DataFrame(df2, columns=['name','attrname','attrvalue','value','vectime','vecvalue'])
@@ -91,34 +89,6 @@ def getData(df,flag):
     MAX_REQ = max(avgResponseTimeSeries)
     MIN_REQ = min(avgResponseTimeSeries)
 
-    if(flag == 1):
-        for i in range(len(dimmerSeries)):
-            if(i >= 75 and i <= 80):
-                serverNumSeries[i] = 3
-            if(timeoutRateSeries[i] > 0.1):
-                timeoutRateSeries[i] *= 0.2
-            elif(timeoutRateSeries[i] > 0.2):
-                timeoutRateSeries[i] *= 0.1
-    
-    if(flag == 2):
-        for i in range(len(dimmerSeries)):
-            if(timeoutRateSeries[i] > 0):
-                timeoutRateSeries[i] =  timeoutRateSeries[i] * 0.3
-            if(i >= 70 and avgThroughputSeries[i] > 0.5 * (MAX_REQ - MIN_REQ) + MIN_REQ):
-                dimmerSeries[i] = dimmerSeries[i] + 0.05
-        '''
-        d1 = dimmerSeries[0]
-        d2 = dimmerSeries[2]
-        for i in range(len(dimmerSeries) - 2):
-            d1 = dimmerSeries[i]
-            d2 = dimmerSeries[i+2]
-            if(dimmerSeries[i + 1] > d1 and dimmerSeries[i + 1] > d2):
-                dimmerSeries[i + 1] = (d1+d2)/2
-            elif(dimmerSeries[i + 1] < d1 and dimmerSeries[i + 1] < d2):
-                dimmerSeries[i + 1] = (d1+d2)/2
-        '''
-        for i in range(61,71):
-            dimmerSeries[i] = 0
 
     
     for i in range(tlen):

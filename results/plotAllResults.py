@@ -57,29 +57,6 @@ def getData(df,flag):
     sat = []
 
     
-    if(flag == 1):
-        timeoutRateSeries[0] = 0
-        timeoutRateSeries[1] = 0
-        timeoutRateSeries[74] = float(timeoutRateSeries[76]) + 0.15
-        timeoutRateSeries[75] = float(timeoutRateSeries[77]) + 0.1
-    
-    if(flag == 1 and case == 1):
-        for i in range(len(dimmerSeries)):
-            dimmerSeries[i] = float(dimmerSeries[i]) + 0.06
-            
-    if(flag == 2):
-        for i in range(len(dimmerSeries)):
-            dimmerSeries[i] = float(dimmerSeries[i]) - 0.1    
-        d1 = dimmerSeries[0]
-        d2 = dimmerSeries[2]
-        for i in range(len(dimmerSeries) - 2):
-            d1 = dimmerSeries[i]
-            d2 = dimmerSeries[i+2]
-            if(dimmerSeries[i + 1] > d1 and dimmerSeries[i + 1] > d2):
-                dimmerSeries[i + 1] = (d1+d2)/2
-            elif(dimmerSeries[i + 1] < d1 and dimmerSeries[i + 1] < d2):
-                dimmerSeries[i + 1] = (d1+d2)/2
-    
 
     tlen = len(dimmerSeries)
 

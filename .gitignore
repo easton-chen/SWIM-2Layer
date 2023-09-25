@@ -2,3 +2,6 @@
 /results/all/
 /results/png/
 /results/*.pdf
+/results/2layer/
+/results/wc_res
+/results/cl_res
