@@ -1,0 +1,991 @@
+Value,Timestamp,MetricId,Unit,Description,Entity,IntervalSecs
+0.7,1/1/17 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.48,12/31/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1.15,12/30/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1.15,12/29/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1.17,12/28/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1.18,12/27/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1.15,12/26/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1.12,12/25/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1.23,12/24/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1.22,12/23/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1.15,12/22/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1.3,12/21/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1.4,12/20/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.64,12/19/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.97,12/18/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.53,12/17/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.53,12/16/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.76,12/15/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.64,12/14/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.7,12/13/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.75,12/12/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.63,12/11/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.56,12/10/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.58,12/9/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.6,12/8/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.63,12/7/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.41,12/6/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.31,12/5/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.52,12/4/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.36,12/3/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.33,12/2/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.39,12/1/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.77,11/30/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.87,11/29/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.79,11/28/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.78,11/27/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.84,11/26/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.82,11/25/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.74,11/24/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.8,11/23/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.8,11/22/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.87,11/21/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.82,11/20/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.86,11/19/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.91,11/18/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.83,11/17/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.92,11/16/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.94,11/15/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.94,11/14/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.98,11/13/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1,11/12/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1.04,11/11/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1.03,11/10/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+0.77,11/9/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+1,11/8/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php5_server,86400
+193,1/1/17 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+132,12/31/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+314,12/30/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+315,12/29/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+319,12/28/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+321,12/27/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+313,12/26/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+305,12/25/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+335,12/24/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+333,12/23/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+313,12/22/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+355,12/21/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+383,12/20/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+175,12/19/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+266,12/18/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+146,12/17/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+144,12/16/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+209,12/15/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+175,12/14/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+192,12/13/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+207,12/12/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+173,12/11/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+154,12/10/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+159,12/9/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+165,12/8/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+173,12/7/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+113,12/6/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+85,12/5/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+142,12/4/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+99,12/3/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+90,12/2/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+107,12/1/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+210,11/30/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+239,11/29/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+215,11/28/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+213,11/27/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+230,11/26/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+224,11/25/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+203,11/24/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+218,11/23/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+219,11/22/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+238,11/21/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+224,11/20/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+235,11/19/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+250,11/18/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+228,11/17/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+250,11/16/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+257,11/15/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+257,11/14/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+269,11/13/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+273,11/12/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+284,11/11/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+282,11/10/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+210,11/9/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+273,11/8/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php5_server,86400
+1.24,1/1/17 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+3.03,12/31/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.34,12/30/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+3.63,12/29/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+3.48,12/28/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.57,12/27/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+5.89,12/26/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.29,12/25/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+5.18,12/24/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+5.21,12/23/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+5.63,12/22/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+5.44,12/21/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.37,12/20/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+3.9,12/19/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+6.87,12/18/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+5.82,12/17/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+5.66,12/16/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.39,12/15/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.43,12/14/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.7,12/13/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.54,12/12/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+5.61,12/11/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+5.85,12/10/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+5.58,12/9/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.84,12/8/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.27,12/7/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+2.25,12/6/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+1.78,12/5/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+3.38,12/4/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+3.03,12/3/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+2.58,12/2/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+2.62,12/1/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+3.44,11/30/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+3.68,11/29/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.18,11/28/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.85,11/27/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+5.2,11/26/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+5.52,11/25/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.22,11/24/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+5.43,11/23/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+3.74,11/22/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.03,11/21/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.15,11/20/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.83,11/19/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+5.03,11/18/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.3,11/17/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.1,11/16/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.66,11/15/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+6.42,11/14/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+7.85,11/13/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+7.69,11/12/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+9.12,11/11/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.58,11/10/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+4.96,11/9/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+3.62,11/8/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php5_server,86400
+71,1/1/17 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+37,12/31/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+66,12/30/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+75,12/29/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+71,12/28/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+86,12/27/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+87,12/26/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+70,12/25/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+70,12/24/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+63,12/23/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+64,12/22/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+131,12/21/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+104,12/20/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+98,12/19/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+194,12/18/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+68,12/17/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+63,12/16/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+107,12/15/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+150,12/14/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+113,12/13/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+191,12/12/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+108,12/11/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+69,12/10/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+64,12/9/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+82,12/8/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+92,12/7/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+89,12/6/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+79,12/5/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+126,12/4/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+64,12/3/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+57,12/2/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+97,12/1/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+115,11/30/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+103,11/29/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+109,11/28/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+81,11/27/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+65,11/26/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+60,11/25/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+57,11/24/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+57,11/23/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+60,11/22/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+118,11/21/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+88,11/20/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+69,11/19/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+65,11/18/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+86,11/17/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+135,11/16/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+89,11/15/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+158,11/14/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+76,11/13/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+67,11/12/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+61,11/11/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+60,11/10/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+147,11/9/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+43,11/8/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php5_server,86400
+17,1/1/17 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+15,12/31/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+39,12/30/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+39,12/29/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+40,12/28/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+53,12/27/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+43,12/26/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+36,12/25/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+41,12/24/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+43,12/23/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+38,12/22/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+48,12/21/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+52,12/20/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+34,12/19/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+39,12/18/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+23,12/17/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+22,12/16/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+30,12/15/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+38,12/14/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+40,12/13/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+58,12/12/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+31,12/11/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+25,12/10/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+25,12/9/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+28,12/8/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+32,12/7/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+15,12/6/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+5,12/5/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+18,12/4/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+13,12/3/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+11,12/2/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+13,12/1/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+40,11/30/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+41,11/29/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+38,11/28/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+39,11/27/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+39,11/26/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+40,11/25/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+35,11/24/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+38,11/23/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+38,11/22/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+44,11/21/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+40,11/20/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+43,11/19/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+46,11/18/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+41,11/17/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+48,11/16/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+49,11/15/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+52,11/14/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+47,11/13/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+52,11/12/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+56,11/11/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+49,11/10/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+43,11/9/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+58,11/8/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php5_server,86400
+4657062,1/1/17 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+4570663,12/31/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+4484262,12/30/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+4397863,12/29/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+4311463,12/28/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+4225063,12/27/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+4138664,12/26/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+4052264,12/25/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+3965865,12/24/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+3879465,12/23/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+3793065,12/22/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+3706666,12/21/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+3620266,12/20/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+3533867,12/19/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+3447467,12/18/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+3361067,12/17/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+3274668,12/16/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+3188268,12/15/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+3101869,12/14/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+3015469,12/13/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+2929069,12/12/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+2842670,12/11/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+2756270,12/10/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+2669871,12/9/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+2583471,12/8/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+2497071,12/7/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+2410672,12/6/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+2324272,12/5/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+2237873,12/4/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+2151473,12/3/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+2065073,12/2/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+1978674,12/1/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+1892274,11/30/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+1805875,11/29/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+1719475,11/28/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+1633075,11/27/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+1546676,11/26/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+1460276,11/25/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+1373877,11/24/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+1287477,11/23/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+1201077,11/22/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+1114678,11/21/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+1028278,11/20/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+941879,11/19/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+855479,11/18/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+769079,11/17/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+682680,11/16/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+596280,11/15/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+509881,11/14/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+423481,11/13/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+337082,11/12/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+250682,11/11/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+164282,11/10/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+77883,11/9/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+3966,11/8/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php5_server,86400
+0.47,1/1/17 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+1.48,12/31/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+5.57,12/30/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.97,12/29/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+2.47,12/28/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+1.98,12/27/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.43,12/26/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+4.67,12/25/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+5.13,12/24/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.3,12/23/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.96,12/22/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+2.8,12/21/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.79,12/20/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.22,12/19/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.27,12/18/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+1.69,12/17/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+2.23,12/16/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.62,12/15/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+8.04,12/14/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+3.59,12/13/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.22,12/12/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.21,12/11/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+3.2,12/10/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.25,12/9/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.83,12/8/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.27,12/7/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.25,12/6/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.29,12/5/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.27,12/4/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.26,12/3/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.25,12/2/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.75,12/1/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.53,11/30/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.31,11/29/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.28,11/28/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+2.33,11/27/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+2.82,11/26/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+3.68,11/25/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+1.01,11/24/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+3.75,11/23/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+2.49,11/22/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+1.03,11/21/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+3.66,11/20/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.23,11/19/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.27,11/18/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.26,11/17/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.27,11/16/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.28,11/15/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.28,11/14/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+5.36,11/13/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+2.12,11/12/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+4.38,11/11/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.2,11/10/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.22,11/9/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+0.3,11/8/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,media_server,86400
+86,1/1/17 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+269,12/31/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+1011,12/30/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+176,12/29/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+450,12/28/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+359,12/27/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+79,12/26/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+847,12/25/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+930,12/24/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+54,12/23/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+174,12/22/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+509,12/21/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+145,12/20/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+40,12/19/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+50,12/18/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+307,12/17/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+404,12/16/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+113,12/15/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+1458,12/14/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+652,12/13/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+41,12/12/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+38,12/11/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+580,12/10/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+45,12/9/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+151,12/8/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+49,12/7/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+45,12/6/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+54,12/5/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+50,12/4/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+48,12/3/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+47,12/2/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+137,12/1/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+97,11/30/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+57,11/29/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+51,11/28/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+423,11/27/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+512,11/26/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+669,11/25/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+184,11/24/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+681,11/23/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+453,11/22/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+188,11/21/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+664,11/20/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+43,11/19/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+49,11/18/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+48,11/17/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+50,11/16/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+50,11/15/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+52,11/14/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+973,11/13/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+385,11/12/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+795,11/11/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+37,11/10/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+40,11/9/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+55,11/8/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,media_server,86400
+1.09,1/1/17 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.56,12/31/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+7.93,12/30/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.22,12/29/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+2.33,12/28/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.52,12/27/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+0.88,12/26/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.89,12/25/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+4.75,12/24/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.43,12/23/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.46,12/22/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+3.01,12/21/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.24,12/20/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.12,12/19/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+2.32,12/18/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+2.79,12/17/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+3.45,12/16/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1,12/15/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+6.18,12/14/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.84,12/13/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+0.69,12/12/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+0.61,12/11/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+3.74,12/10/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.06,12/9/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.36,12/8/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.22,12/7/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.04,12/6/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.23,12/5/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.35,12/4/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.18,12/3/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.06,12/2/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.49,12/1/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.34,11/30/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.47,11/29/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.34,11/28/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+2.09,11/27/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+2.83,11/26/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+7.1,11/25/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.38,11/24/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+3.84,11/23/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+2.13,11/22/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+1.08,11/21/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+4.49,11/20/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+0.7,11/19/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+0.81,11/18/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+0.7,11/17/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+0.7,11/16/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+0.73,11/15/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+0.65,11/14/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+10.59,11/13/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+2.51,11/12/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+6.52,11/11/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+0.64,11/10/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+2.61,11/9/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+21.93,11/8/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,media_server,86400
+65,1/1/17 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+162,12/31/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+3025,12/30/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+111,12/29/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+744,12/28/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+131,12/27/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+24,12/26/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+136,12/25/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+862,12/24/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+103,12/23/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+65,12/22/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+380,12/21/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+52,12/20/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+80,12/19/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+192,12/18/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+824,12/17/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+826,12/16/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+41,12/15/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+1696,12/14/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+98,12/13/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+5,12/12/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+4,12/11/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+1311,12/10/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+48,12/9/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+76,12/8/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+145,12/7/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+31,12/6/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+68,12/5/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+70,12/4/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+56,12/3/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+62,12/2/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+89,12/1/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+54,11/30/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+102,11/29/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+96,11/28/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+240,11/27/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+311,11/26/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+2068,11/25/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+59,11/24/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+385,11/23/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+257,11/22/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+42,11/21/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+1024,11/20/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+2,11/19/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+4,11/18/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+4,11/17/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+7,11/16/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+6,11/15/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+4,11/14/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+8477,11/13/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+221,11/12/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+1832,11/11/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+5,11/10/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+74,11/9/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+132,11/8/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",media_server,86400
+50,1/1/17 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+61,12/31/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+490,12/30/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+23,12/29/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+252,12/28/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+49,12/27/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+11,12/26/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+54,12/25/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+416,12/24/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+18,12/23/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+32,12/22/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+166,12/21/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+12,12/20/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+17,12/19/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+159,12/18/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+33,12/17/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+427,12/16/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+18,12/15/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+304,12/14/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+53,12/13/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+0,12/12/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+0,12/11/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+656,12/10/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+4,12/9/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+21,12/8/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+128,12/7/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+17,12/6/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+45,12/5/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+22,12/4/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+15,12/3/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+35,12/2/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+21,12/1/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+27,11/30/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+60,11/29/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+43,11/28/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+102,11/27/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+120,11/26/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+787,11/25/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+33,11/24/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+199,11/23/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+59,11/22/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+28,11/21/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+336,11/20/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+1,11/19/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+1,11/18/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+1,11/17/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+9,11/16/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+5,11/15/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+1,11/14/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+78,11/13/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+72,11/12/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+734,11/11/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+0,11/10/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+1,11/9/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+0,11/8/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,media_server,86400
+4656626,1/1/17 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+4570226,12/31/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+4483826,12/30/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+4397426,12/29/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+4311026,12/28/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+4224627,12/27/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+4138227,12/26/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+4051828,12/25/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+3965428,12/24/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+3879028,12/23/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+3792629,12/22/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+3706229,12/21/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+3619830,12/20/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+3533430,12/19/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+3447030,12/18/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+3360631,12/17/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+3274231,12/16/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+3187832,12/15/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+3101432,12/14/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+3015032,12/13/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+2928633,12/12/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+2842233,12/11/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+2755834,12/10/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+2669434,12/9/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+2583034,12/8/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+2496635,12/7/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+2410235,12/6/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+2323835,12/5/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+2237436,12/4/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+2151036,12/3/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+2064637,12/2/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+1978237,12/1/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+1891837,11/30/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+1805438,11/29/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+1719038,11/28/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+1632639,11/27/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+1546239,11/26/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+1459839,11/25/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+1373440,11/24/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+1287040,11/23/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+1200641,11/22/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+1114241,11/21/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+1027842,11/20/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+941442,11/19/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+855042,11/18/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+768643,11/17/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+682243,11/16/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+595844,11/15/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+509444,11/14/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+423044,11/13/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+336645,11/12/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+250245,11/11/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+163846,11/10/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+77446,11/9/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+2708,11/8/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",media_server,86400
+0.23,1/1/17 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.18,12/31/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.13,12/30/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.16,12/29/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.12,12/28/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.11,12/27/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.14,12/26/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.2,12/25/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.23,12/24/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.13,12/23/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.12,12/22/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.14,12/21/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.15,12/20/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.15,12/19/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.18,12/18/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.16,12/17/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.15,12/16/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.18,12/15/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.14,12/14/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.13,12/13/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.21,12/12/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.14,12/11/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.15,12/10/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.13,12/9/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.13,12/8/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.13,12/7/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.14,12/6/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.15,12/5/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.18,12/4/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.15,12/3/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.14,12/2/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.2,12/1/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.16,11/30/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.14,11/29/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.11,11/28/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.11,11/27/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.14,11/26/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.14,11/25/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.1,11/24/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.11,11/23/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.1,11/22/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.12,11/21/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.12,11/20/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.13,11/19/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.15,11/18/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.11,11/17/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.1,11/16/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.1,11/15/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.11,11/14/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.13,11/13/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.13,11/12/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.11,11/11/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.12,11/10/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.12,11/9/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+0.19,11/8/16 18:00,cpu.usage.average,%,CPU usage as a percentage during the interval,php7_server,86400
+65,1/1/17 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+49,12/31/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+36,12/30/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+46,12/29/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+34,12/28/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+32,12/27/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+37,12/26/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+57,12/25/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+65,12/24/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+37,12/23/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+34,12/22/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+41,12/21/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+43,12/20/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+43,12/19/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+51,12/18/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+44,12/17/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+41,12/16/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+50,12/15/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+39,12/14/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+37,12/13/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+58,12/12/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+39,12/11/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+42,12/10/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+37,12/9/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+38,12/8/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+37,12/7/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+40,12/6/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+41,12/5/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+50,12/4/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+41,12/3/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+40,12/2/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+55,12/1/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+45,11/30/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+40,11/29/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+30,11/28/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+31,11/27/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+40,11/26/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+39,11/25/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+30,11/24/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+31,11/23/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+29,11/22/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+33,11/21/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+34,11/20/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+35,11/19/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+41,11/18/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+30,11/17/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+27,11/16/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+28,11/15/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+31,11/14/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+38,11/13/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+37,11/12/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+31,11/11/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+35,11/10/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+34,11/9/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+54,11/8/16 18:00,cpu.usagemhz.average,MHz,CPU usage in megahertz during the interval,php7_server,86400
+5.38,1/1/17 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.91,12/31/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.61,12/30/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+5.16,12/29/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.51,12/28/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.35,12/27/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.33,12/26/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.8,12/25/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.95,12/24/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.25,12/23/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.06,12/22/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.3,12/21/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.18,12/20/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.35,12/19/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.36,12/18/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.2,12/17/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.16,12/16/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.3,12/15/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.98,12/14/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.94,12/13/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4.23,12/12/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.92,12/11/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+4,12/10/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.68,12/9/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.75,12/8/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.65,12/7/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.7,12/6/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.55,12/5/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.71,12/4/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.55,12/3/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.38,12/2/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.68,12/1/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.41,11/30/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.26,11/29/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.03,11/28/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2.99,11/27/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.09,11/26/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2.9,11/25/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2.82,11/24/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2.74,11/23/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2.65,11/22/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2.69,11/21/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2.58,11/20/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2.51,11/19/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2.55,11/18/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2.32,11/17/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2.17,11/16/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2.07,11/15/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2.04,11/14/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2.1,11/13/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+1.84,11/12/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+1.66,11/11/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+1.57,11/10/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+3.35,11/9/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+22.32,11/8/16 18:00,mem.usage.average,%,Memory usage as percentage of total configured or available memory,php7_server,86400
+2,1/1/17 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+2,12/31/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/30/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/29/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+0,12/28/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+0,12/27/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/26/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+2,12/25/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+3,12/24/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/23/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+0,12/22/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/21/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/20/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/19/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+2,12/18/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/17/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/16/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+2,12/15/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/14/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/13/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+2,12/12/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/11/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/10/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/9/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/8/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/7/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/6/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/5/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+2,12/4/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/3/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,12/2/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+2,12/1/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,11/30/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,11/29/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+0,11/28/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+0,11/27/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,11/26/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,11/25/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+0,11/24/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,11/23/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+0,11/22/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,11/21/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+6,11/20/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,11/19/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,11/18/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+0,11/17/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+0,11/16/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+1,11/15/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+2,11/14/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+4,11/13/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+4,11/12/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+2,11/11/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+2,11/10/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+21,11/9/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+118,11/8/16 18:00,disk.usage.average,KBps,"Aggregated disk I/O rate. For hosts, this metric includes the rates for all virtual machines running on the host during the collection interval.",php7_server,86400
+0,1/1/17 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/31/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/30/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/29/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/28/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/27/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/26/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/25/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/24/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/23/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/22/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/21/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/20/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/19/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/18/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/17/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/16/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/15/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/14/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/13/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/12/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/11/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/10/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/9/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/8/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/7/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/6/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/5/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/4/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/3/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/2/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,12/1/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/30/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/29/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/28/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/27/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/26/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/25/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/24/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/23/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/22/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/21/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+1,11/20/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/19/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/18/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/17/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/16/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/15/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/14/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/13/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/12/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/11/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/10/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/9/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+0,11/8/16 18:00,net.usage.average,KBps,Network utilization (combined transmit-rates and receive-rates) during the interval,php7_server,86400
+4656844,1/1/17 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+4570444,12/31/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+4484044,12/30/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+4397644,12/29/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+4311244,12/28/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+4224845,12/27/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+4138445,12/26/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+4052046,12/25/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+3965646,12/24/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+3879246,12/23/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+3792847,12/22/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+3706447,12/21/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+3620048,12/20/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+3533648,12/19/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+3447248,12/18/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+3360849,12/17/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+3274449,12/16/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+3188050,12/15/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+3101650,12/14/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+3015250,12/13/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+2928851,12/12/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+2842451,12/11/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+2756051,12/10/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+2669652,12/9/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+2583252,12/8/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+2496853,12/7/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+2410453,12/6/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+2324053,12/5/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+2237654,12/4/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+2151254,12/3/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+2064855,12/2/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+1978455,12/1/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+1892055,11/30/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+1805656,11/29/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+1719256,11/28/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+1632857,11/27/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+1546457,11/26/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+1460057,11/25/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+1373658,11/24/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+1287258,11/23/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+1200859,11/22/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+1114459,11/21/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+1028059,11/20/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+941660,11/19/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+855260,11/18/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+768861,11/17/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+682461,11/16/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+596062,11/15/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+509662,11/14/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+423262,11/13/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+336863,11/12/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+250463,11/11/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+164064,11/10/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+77664,11/9/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
+2711,11/8/16 18:00,sys.uptime.latest,second,"Total time elapsed, in seconds, since last system startup",php7_server,86400
